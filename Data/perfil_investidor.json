@@ -1,0 +1,23 @@
+{
+  "cliente_id": "CLI001",
+  "nome": "Mariana Costa",
+  "idade": 34,
+  "profissao": "Analista de Marketing",
+  "renda_mensal_estimada": 6200.0,
+  "perfil_risco": "Moderado",
+  "tolerancia_a_risco": "Média - aceita oscilação limitada em troca de rentabilidade maior que a poupança",
+  "horizonte_investimento": "Médio prazo (1 a 3 anos)",
+  "objetivos_financeiros": [
+    "Formar reserva de emergência",
+    "Trocar de carro em 2 anos",
+    "Começar a investir em renda variável de forma gradual"
+  ],
+  "reserva_emergencia_atual": 3500.0,
+  "reserva_emergencia_meta": 18000.0,
+  "possui_investimentos_previos": true,
+  "produtos_atuais": [
+    "Poupança",
+    "CDB Liquidez Diária"
+  ],
+  "data_ultima_atualizacao_perfil": "2026-06-10"
+}

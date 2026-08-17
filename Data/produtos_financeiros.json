@@ -1,0 +1,106 @@
+[
+  {
+    "id": "PROD001",
+    "nome": "CDB Liquidez Diária",
+    "categoria": "Renda Fixa",
+    "descricao": "CDB com resgate a qualquer momento sem perda de rentabilidade, indicado para reserva de emergência.",
+    "rentabilidade": "100% do CDI",
+    "liquidez": "Diária",
+    "valor_minimo": 100.0,
+    "perfis_compativeis": [
+      "Conservador",
+      "Moderado",
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Reserva de emergência",
+      "Sobra de caixa no curto prazo"
+    ]
+  },
+  {
+    "id": "PROD002",
+    "nome": "CDB 24 meses",
+    "categoria": "Renda Fixa",
+    "descricao": "CDB com prazo de 24 meses e rentabilidade maior em troca de menor liquidez.",
+    "rentabilidade": "115% do CDI",
+    "liquidez": "No vencimento",
+    "valor_minimo": 500.0,
+    "perfis_compativeis": [
+      "Moderado",
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Objetivos de médio prazo",
+      "Troca de bens em 1-3 anos"
+    ]
+  },
+  {
+    "id": "PROD003",
+    "nome": "Fundo Multimercado Bradesco",
+    "categoria": "Fundo de Investimento",
+    "descricao": "Fundo com estratégia diversificada entre renda fixa e variável, buscando retorno acima do CDI.",
+    "rentabilidade": "Variável - meta CDI + 2% a.a.",
+    "liquidez": "D+30",
+    "valor_minimo": 1000.0,
+    "perfis_compativeis": [
+      "Moderado",
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Diversificação",
+      "Médio e longo prazo"
+    ]
+  },
+  {
+    "id": "PROD004",
+    "nome": "Tesouro Selic",
+    "categoria": "Renda Fixa - Título Público",
+    "descricao": "Título público pós-fixado atrelado à Selic, considerado um dos investimentos mais seguros do mercado.",
+    "rentabilidade": "Selic",
+    "liquidez": "D+1",
+    "valor_minimo": 50.0,
+    "perfis_compativeis": [
+      "Conservador",
+      "Moderado",
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Reserva de emergência",
+      "Perfil conservador"
+    ]
+  },
+  {
+    "id": "PROD005",
+    "nome": "Fundo de Ações Bradesco Small Caps",
+    "categoria": "Renda Variável",
+    "descricao": "Fundo que investe em ações de empresas de menor capitalização, com maior potencial de retorno e maior volatilidade.",
+    "rentabilidade": "Variável - sujeito a oscilações de mercado",
+    "liquidez": "D+4",
+    "valor_minimo": 200.0,
+    "perfis_compativeis": [
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Longo prazo",
+      "Diversificação em renda variável"
+    ]
+  },
+  {
+    "id": "PROD006",
+    "nome": "Cartão de Crédito Bradesco Elo Nanquim",
+    "categoria": "Cartão de Crédito",
+    "descricao": "Cartão com programa de pontos e cashback, sem anuidade no primeiro ano.",
+    "rentabilidade": null,
+    "liquidez": null,
+    "valor_minimo": 0.0,
+    "perfis_compativeis": [
+      "Conservador",
+      "Moderado",
+      "Arrojado"
+    ],
+    "indicado_para": [
+      "Controle de gastos",
+      "Acúmulo de pontos"
+    ]
+  }
+]

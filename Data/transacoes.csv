@@ -1,0 +1,177 @@
+id,data,categoria,subcategoria,descricao,valor,tipo,forma_pagamento,cliente_id
+T0001,2026-03-01,Transporte,Estacionamento,Estapar,131.46,debito,Pix,CLI001
+T0002,2026-03-02,Moradia,Água,Sabesp,414.89,debito,Pix,CLI001
+T0003,2026-03-03,Transporte,Estacionamento,Estapar,109.81,debito,Cartão de Crédito,CLI001
+T0004,2026-03-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0005,2026-03-05,Alimentação,Restaurante,Outback,213.36,debito,Cartão de Crédito,CLI001
+T0006,2026-03-05,Assinaturas,Academia,Smart Fit,34.11,debito,Débito Automático,CLI001
+T0007,2026-03-06,Saúde,Farmácia,Droga Raia,153.89,debito,Débito Automático,CLI001
+T0008,2026-03-07,Lazer,Show/Evento,Ingresso Show,82.46,debito,Cartão de Crédito,CLI001
+T0009,2026-03-10,Transporte,Estacionamento,Estapar,143.33,debito,Débito,CLI001
+T0010,2026-03-11,Assinaturas,Academia,Smart Fit,22.78,debito,Cartão de Crédito,CLI001
+T0011,2026-03-12,Moradia,Aluguel,Aluguel Apartamento,317.23,debito,Débito Automático,CLI001
+T0012,2026-03-12,Educação,Curso Online,Alura,69.82,debito,Cartão de Crédito,CLI001
+T0013,2026-03-12,Compras,Vestuário,Zara,63.61,debito,Pix,CLI001
+T0014,2026-03-12,Assinaturas,Software,Adobe Creative Cloud,32.56,debito,Cartão de Crédito,CLI001
+T0015,2026-03-13,Compras,Eletrônicos,Magazine Luiza,65.37,debito,Pix,CLI001
+T0016,2026-03-14,Moradia,Energia,Enel Energia,254.08,debito,Débito Automático,CLI001
+T0017,2026-03-15,Alimentação,Padaria,Padaria Bom Pão,177.23,debito,Cartão de Crédito,CLI001
+T0018,2026-03-16,Moradia,Água,Sabesp,241.12,debito,Pix,CLI001
+T0019,2026-03-16,Educação,Material,Livraria Cultura,62.21,debito,Débito Automático,CLI001
+T0020,2026-03-17,Saúde,Plano de Saúde,Bradesco Saúde,198.68,debito,Débito Automático,CLI001
+T0021,2026-03-17,Educação,Curso Online,Alura,39.41,debito,Débito Automático,CLI001
+T0022,2026-03-20,Compras,Vestuário,Zara,42.63,debito,Cartão de Crédito,CLI001
+T0023,2026-03-22,Lazer,Cinema,Cinemark,75.05,debito,Pix,CLI001
+T0024,2026-03-22,Lazer,Viagem,Hotel,66.64,debito,Pix,CLI001
+T0025,2026-03-23,Alimentação,Padaria,Padaria Central,157.61,debito,Pix,CLI001
+T0026,2026-03-25,Assinaturas,Academia,Smart Fit,29.84,debito,Débito Automático,CLI001
+T0027,2026-03-26,Transporte,Aplicativo,99,143.32,debito,Débito,CLI001
+T0028,2026-03-26,Compras,Casa,Leroy Merlin,49.28,debito,Pix,CLI001
+T0029,2026-03-27,Educação,Curso Online,Alura,67.77,debito,Débito Automático,CLI001
+T0030,2026-03-27,Educação,Curso Online,Udemy,38.93,debito,Débito Automático,CLI001
+T0031,2026-03-28,Alimentação,Supermercado,Carrefour,211.41,debito,Débito,CLI001
+T0032,2026-03-28,Compras,Casa,Leroy Merlin,49.72,debito,Cartão de Crédito,CLI001
+T0033,2026-04-03,Moradia,Água,Sabesp,223.82,debito,Pix,CLI001
+T0034,2026-04-04,Lazer,Streaming,Spotify,55.6,debito,Cartão de Crédito,CLI001
+T0035,2026-04-04,Saúde,Consulta,Consulta Médica,55.86,debito,Cartão de Crédito,CLI001
+T0036,2026-04-04,Educação,Curso Online,Alura,113.87,debito,Cartão de Crédito,CLI001
+T0037,2026-04-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0038,2026-04-05,Saúde,Farmácia,Droga Raia,79.28,debito,Cartão de Crédito,CLI001
+T0039,2026-04-05,Educação,Curso Online,Alura,112.09,debito,Débito Automático,CLI001
+T0040,2026-04-06,Assinaturas,Academia,Smart Fit,56.46,debito,Débito Automático,CLI001
+T0041,2026-04-08,Alimentação,Padaria,Padaria Bom Pão,151.8,debito,Débito,CLI001
+T0042,2026-04-09,Moradia,Internet,Vivo Fibra,222.41,debito,Pix,CLI001
+T0043,2026-04-10,Alimentação,Supermercado,Carrefour,113.42,debito,Cartão de Crédito,CLI001
+T0044,2026-04-10,Alimentação,Supermercado,Carrefour,167.0,debito,Pix,CLI001
+T0045,2026-04-10,Lazer,Show/Evento,Ingresso Show,44.84,debito,Cartão de Crédito,CLI001
+T0046,2026-04-10,Compras,Vestuário,Zara,79.3,debito,Pix,CLI001
+T0047,2026-04-11,Saúde,Farmácia,Drogasil,71.39,debito,Débito Automático,CLI001
+T0048,2026-04-12,Transporte,Estacionamento,Estapar,248.36,debito,Cartão de Crédito,CLI001
+T0049,2026-04-12,Compras,Eletrônicos,Magazine Luiza,82.16,debito,Pix,CLI001
+T0050,2026-04-13,Lazer,Show/Evento,Ingresso Show,51.25,debito,Cartão de Crédito,CLI001
+T0051,2026-04-14,Alimentação,Delivery,iFood,162.8,debito,Cartão de Crédito,CLI001
+T0052,2026-04-14,Moradia,Água,Sabesp,370.83,debito,Pix,CLI001
+T0053,2026-04-15,Compras,Casa,Leroy Merlin,57.85,debito,Pix,CLI001
+T0054,2026-04-17,Alimentação,Delivery,Rappi,111.65,debito,Pix,CLI001
+T0055,2026-04-17,Assinaturas,Academia,Smart Fit,58.07,debito,Débito Automático,CLI001
+T0056,2026-04-18,Transporte,Aplicativo,99,148.8,debito,Pix,CLI001
+T0057,2026-04-20,Moradia,Água,Sabesp,292.44,debito,Pix,CLI001
+T0058,2026-04-21,Moradia,Aluguel,Aluguel Apartamento,364.46,debito,Débito Automático,CLI001
+T0059,2026-04-21,Compras,Eletrônicos,Magazine Luiza,53.88,debito,Pix,CLI001
+T0060,2026-04-22,Saúde,Farmácia,Drogasil,85.67,debito,Débito Automático,CLI001
+T0061,2026-04-24,Lazer,Viagem,Passagem Aérea,59.71,debito,Cartão de Crédito,CLI001
+T0062,2026-05-01,Lazer,Show/Evento,Ingresso Show,38.92,debito,Pix,CLI001
+T0063,2026-05-01,Educação,Material,Livraria Cultura,71.73,debito,Débito Automático,CLI001
+T0064,2026-05-02,Compras,Eletrônicos,Magazine Luiza,95.48,debito,Cartão de Crédito,CLI001
+T0065,2026-05-04,Transporte,Transporte Público,Bilhete Único,157.04,debito,Cartão de Crédito,CLI001
+T0066,2026-05-04,Moradia,Aluguel,Aluguel Apartamento,214.78,debito,Pix,CLI001
+T0067,2026-05-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0068,2026-05-05,Alimentação,Restaurante,Outback,252.49,debito,Cartão de Crédito,CLI001
+T0069,2026-05-05,Transporte,Combustível,Posto Ipiranga,177.62,debito,Pix,CLI001
+T0070,2026-05-05,Compras,Casa,Leroy Merlin,95.63,debito,Pix,CLI001
+T0071,2026-05-07,Saúde,Plano de Saúde,Bradesco Saúde,75.03,debito,Cartão de Crédito,CLI001
+T0072,2026-05-08,Lazer,Cinema,Cinemark,61.07,debito,Pix,CLI001
+T0073,2026-05-10,Lazer,Show/Evento,Ingresso Show,47.44,debito,Pix,CLI001
+T0074,2026-05-10,Assinaturas,Academia,Smart Fit,44.19,debito,Cartão de Crédito,CLI001
+T0075,2026-05-11,Saúde,Farmácia,Drogasil,92.05,debito,Débito Automático,CLI001
+T0076,2026-05-12,Compras,Casa,Leroy Merlin,95.45,debito,Pix,CLI001
+T0077,2026-05-14,Saúde,Consulta,Consulta Médica,92.17,debito,Cartão de Crédito,CLI001
+T0078,2026-05-16,Transporte,Combustível,Posto Ipiranga,127.22,debito,Cartão de Crédito,CLI001
+T0079,2026-05-16,Moradia,Energia,Enel Energia,315.97,debito,Débito Automático,CLI001
+T0080,2026-05-18,Moradia,Condomínio,Condomínio Edifício,298.87,debito,Pix,CLI001
+T0081,2026-05-19,Lazer,Cinema,Cinemark,52.91,debito,Pix,CLI001
+T0082,2026-05-19,Educação,Material,Livraria Cultura,88.49,debito,Cartão de Crédito,CLI001
+T0083,2026-05-19,Assinaturas,Academia,Smart Fit,60.15,debito,Cartão de Crédito,CLI001
+T0084,2026-05-20,Alimentação,Supermercado,Extra Mercado,247.39,debito,Débito,CLI001
+T0085,2026-05-22,Alimentação,Padaria,Padaria Central,197.46,debito,Cartão de Crédito,CLI001
+T0086,2026-05-22,Moradia,Aluguel,Aluguel Apartamento,271.64,debito,Pix,CLI001
+T0087,2026-05-22,Moradia,Aluguel,Aluguel Apartamento,259.17,debito,Pix,CLI001
+T0088,2026-05-23,Lazer,Streaming,Amazon Prime,49.4,debito,Pix,CLI001
+T0089,2026-05-23,Saúde,Consulta,Consulta Médica,65.88,debito,Débito Automático,CLI001
+T0090,2026-05-25,Compras,Vestuário,Renner,55.67,debito,Pix,CLI001
+T0091,2026-05-27,Educação,Material,Livraria Cultura,60.49,debito,Débito Automático,CLI001
+T0092,2026-06-01,Alimentação,Supermercado,Extra Mercado,131.65,debito,Débito,CLI001
+T0093,2026-06-04,Alimentação,Restaurante,Outback,170.2,debito,Cartão de Crédito,CLI001
+T0094,2026-06-04,Transporte,Combustível,Posto Shell,70.83,debito,Pix,CLI001
+T0095,2026-06-04,Moradia,Condomínio,Condomínio Edifício,661.73,debito,Pix,CLI001
+T0096,2026-06-04,Lazer,Streaming,Netflix,90.78,debito,Cartão de Crédito,CLI001
+T0097,2026-06-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0098,2026-06-06,Saúde,Consulta,Consulta Médica,46.11,debito,Débito Automático,CLI001
+T0099,2026-06-06,Compras,Vestuário,Renner,108.92,debito,Pix,CLI001
+T0100,2026-06-07,Lazer,Streaming,Netflix,71.08,debito,Cartão de Crédito,CLI001
+T0101,2026-06-08,Transporte,Estacionamento,Estapar,79.05,debito,Pix,CLI001
+T0102,2026-06-09,Transporte,Transporte Público,Bilhete Único,103.39,debito,Cartão de Crédito,CLI001
+T0103,2026-06-09,Educação,Material,Livraria Cultura,108.9,debito,Cartão de Crédito,CLI001
+T0104,2026-06-12,Alimentação,Restaurante,Restaurante Sabor Caseiro,135.52,debito,Débito,CLI001
+T0105,2026-06-12,Saúde,Consulta,Consulta Médica,42.25,debito,Débito Automático,CLI001
+T0106,2026-06-12,Educação,Curso Online,Udemy,85.7,debito,Cartão de Crédito,CLI001
+T0107,2026-06-14,Assinaturas,Academia,Smart Fit,47.88,debito,Cartão de Crédito,CLI001
+T0108,2026-06-15,Alimentação,Delivery,Rappi,156.47,debito,Pix,CLI001
+T0109,2026-06-16,Educação,Material,Livraria Cultura,78.96,debito,Cartão de Crédito,CLI001
+T0110,2026-06-19,Moradia,Internet,Vivo Fibra,722.34,debito,Débito Automático,CLI001
+T0111,2026-06-19,Assinaturas,Academia,Smart Fit,49.75,debito,Cartão de Crédito,CLI001
+T0112,2026-06-21,Transporte,Transporte Público,Bilhete Único,100.76,debito,Cartão de Crédito,CLI001
+T0113,2026-06-21,Transporte,Combustível,Posto Shell,84.02,debito,Pix,CLI001
+T0114,2026-06-21,Compras,Casa,Leroy Merlin,142.91,debito,Pix,CLI001
+T0115,2026-06-21,Assinaturas,Streaming,Netflix,30.01,debito,Débito Automático,CLI001
+T0116,2026-06-23,Alimentação,Padaria,Padaria Central,146.74,debito,Pix,CLI001
+T0117,2026-06-25,Saúde,Consulta,Consulta Médica,63.83,debito,Débito Automático,CLI001
+T0118,2026-06-26,Saúde,Farmácia,Drogasil,66.99,debito,Cartão de Crédito,CLI001
+T0119,2026-06-27,Lazer,Viagem,Hotel,102.53,debito,Cartão de Crédito,CLI001
+T0120,2026-06-28,Saúde,Plano de Saúde,Bradesco Saúde,43.42,debito,Débito Automático,CLI001
+T0121,2026-07-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0122,2026-07-05,Assinaturas,Software,Adobe Creative Cloud,23.39,debito,Débito Automático,CLI001
+T0123,2026-07-07,Saúde,Farmácia,Drogasil,129.25,debito,Cartão de Crédito,CLI001
+T0124,2026-07-08,Alimentação,Padaria,Padaria Central,483.65,debito,Débito,CLI001
+T0125,2026-07-08,Transporte,Combustível,Posto Ipiranga,254.15,debito,Cartão de Crédito,CLI001
+T0126,2026-07-09,Moradia,Internet,Vivo Fibra,240.02,debito,Pix,CLI001
+T0127,2026-07-10,Saúde,Consulta,Consulta Médica,101.64,debito,Cartão de Crédito,CLI001
+T0128,2026-07-10,Assinaturas,Academia,Smart Fit,28.07,debito,Débito Automático,CLI001
+T0129,2026-07-12,Educação,Material,Livraria Cultura,51.57,debito,Débito Automático,CLI001
+T0130,2026-07-14,Assinaturas,Academia,Smart Fit,20.56,debito,Débito Automático,CLI001
+T0131,2026-07-15,Compras,Vestuário,Renner,78.71,debito,Cartão de Crédito,CLI001
+T0132,2026-07-15,Assinaturas,Streaming,Amazon Prime,24.41,debito,Cartão de Crédito,CLI001
+T0133,2026-07-16,Lazer,Viagem,Passagem Aérea,94.64,debito,Pix,CLI001
+T0134,2026-07-16,Compras,Vestuário,Zara,72.52,debito,Cartão de Crédito,CLI001
+T0135,2026-07-18,Transporte,Aplicativo,Uber,259.75,debito,Cartão de Crédito,CLI001
+T0136,2026-07-18,Compras,Casa,Leroy Merlin,73.13,debito,Pix,CLI001
+T0137,2026-07-19,Lazer,Show/Evento,Ingresso Show,108.86,debito,Pix,CLI001
+T0138,2026-07-20,Alimentação,Delivery,iFood,449.01,debito,Pix,CLI001
+T0139,2026-07-21,Lazer,Cinema,Cinemark,124.78,debito,Pix,CLI001
+T0140,2026-07-21,Educação,Mensalidade,Mensalidade Curso,75.35,debito,Cartão de Crédito,CLI001
+T0141,2026-07-22,Educação,Material,Livraria Cultura,79.21,debito,Débito Automático,CLI001
+T0142,2026-07-23,Compras,Vestuário,Zara,75.68,debito,Pix,CLI001
+T0143,2026-07-24,Moradia,Internet,Vivo Fibra,248.17,debito,Débito Automático,CLI001
+T0144,2026-07-26,Educação,Material,Livraria Cultura,71.33,debito,Cartão de Crédito,CLI001
+T0145,2026-07-26,Compras,Casa,Leroy Merlin,84.34,debito,Pix,CLI001
+T0146,2026-07-27,Saúde,Consulta,Consulta Médica,133.14,debito,Débito Automático,CLI001
+T0147,2026-07-28,Moradia,Energia,Enel Energia,396.25,debito,Débito Automático,CLI001
+T0148,2026-07-28,Moradia,Energia,Enel Energia,235.43,debito,Débito Automático,CLI001
+T0149,2026-07-28,Assinaturas,Academia,Smart Fit,29.5,debito,Débito Automático,CLI001
+T0150,2026-08-01,Transporte,Aplicativo,99,173.26,debito,Pix,CLI001
+T0151,2026-08-02,Alimentação,Supermercado,Carrefour,344.13,debito,Débito,CLI001
+T0152,2026-08-02,Lazer,Cinema,Cinemark,72.49,debito,Pix,CLI001
+T0153,2026-08-02,Educação,Mensalidade,Mensalidade Curso,114.24,debito,Cartão de Crédito,CLI001
+T0154,2026-08-03,Moradia,Energia,Enel Energia,861.83,debito,Débito Automático,CLI001
+T0155,2026-08-03,Saúde,Consulta,Consulta Médica,133.1,debito,Débito Automático,CLI001
+T0156,2026-08-03,Compras,Casa,Leroy Merlin,85.66,debito,Cartão de Crédito,CLI001
+T0157,2026-08-04,Saúde,Plano de Saúde,Bradesco Saúde,135.97,debito,Débito Automático,CLI001
+T0158,2026-08-04,Assinaturas,Software,Adobe Creative Cloud,18.87,debito,Cartão de Crédito,CLI001
+T0159,2026-08-05,Salário,Salário Mensal,Crédito de Salário - Empregador,6200.0,credito,Transferência,CLI001
+T0160,2026-08-06,Transporte,Aplicativo,Uber,152.36,debito,Cartão de Crédito,CLI001
+T0161,2026-08-08,Transporte,Combustível,Posto Ipiranga,105.46,debito,Débito,CLI001
+T0162,2026-08-08,Compras,Vestuário,Renner,94.34,debito,Pix,CLI001
+T0163,2026-08-09,Saúde,Farmácia,Droga Raia,128.57,debito,Cartão de Crédito,CLI001
+T0164,2026-08-10,Alimentação,Delivery,iFood,221.2,debito,Pix,CLI001
+T0165,2026-08-10,Lazer,Cinema,Cinemark,74.48,debito,Pix,CLI001
+T0166,2026-08-10,Lazer,Show/Evento,Ingresso Show,54.44,debito,Cartão de Crédito,CLI001
+T0167,2026-08-11,Moradia,Condomínio,Condomínio Edifício,724.1,debito,Débito Automático,CLI001
+T0168,2026-08-11,Assinaturas,Streaming,Spotify,28.01,debito,Cartão de Crédito,CLI001
+T0169,2026-08-12,Alimentação,Padaria,Padaria Bom Pão,240.68,debito,Débito,CLI001
+T0170,2026-08-12,Compras,Vestuário,Zara,82.87,debito,Pix,CLI001
+T0171,2026-08-14,Assinaturas,Software,Adobe Creative Cloud,27.08,debito,Cartão de Crédito,CLI001
+T0172,2026-08-15,Assinaturas,Software,Adobe Creative Cloud,19.82,debito,Cartão de Crédito,CLI001
+T0173,2026-08-15,Assinaturas,Streaming,Spotify,28.84,debito,Débito Automático,CLI001
+T0174,2026-08-17,Lazer,Streaming,Spotify,78.82,debito,Cartão de Crédito,CLI001
+T0175,2026-08-17,Educação,Curso Online,Alura,164.31,debito,Débito Automático,CLI001
+T0176,2026-08-17,Compras,Casa,Leroy Merlin,94.42,debito,Cartão de Crédito,CLI001
