@@ -11,7 +11,7 @@
 
 ## 2. Estratégia de Acesso aos Dados
 
-Como o volume de dados mockados é pequeno e estruturado (não é texto livre), **não é necessário RAG com embeddings/vetorização** para esta versão do protótipo. A estratégia adotada é **injeção direta de contexto estruturado** no prompt:
+Como o volume de dados mockados é pequeno e estruturado, **não é necessário RAG com embeddings/vetorização** para esta versão do protótipo. A estratégia adotada é **injeção direta de contexto estruturado** no prompt:
 
 1. Os dados relevantes ao cliente ativo são carregados a cada interação;
 2. São filtrados/agregados conforme a pergunta (ex: apenas transações do último trimestre);
@@ -21,7 +21,7 @@ Como o volume de dados mockados é pequeno e estruturado (não é texto livre), 
 
 ## 3. Camada de Pré-processamento (Analytics)
 
-Esta é a camada que diferencia a BIA Preditiva do agente base. Antes de qualquer chamada ao LLM, o sistema executa:
+Antes de qualquer chamada ao LLM, o sistema executa:
 
 1. **Agregação por categoria e período** — soma de gastos por categoria, agrupados por mês;
 2. **Cálculo de variação** — comparação percentual entre o mês corrente e a média dos últimos 3 meses;
