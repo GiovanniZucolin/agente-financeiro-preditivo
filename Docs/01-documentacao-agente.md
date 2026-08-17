@@ -2,7 +2,7 @@
 
 ## 1. Visão Geral
 
-**Nome do agente:** BIA Preditiva (Bradesco Inteligência Artificial — Preditiva)
+**Nome do agente:** Finantivo - Assistente Financeiro Preditivo
 
 **Resumo:** Assistente financeiro conversacional que vai além de responder perguntas sobre saldo, produtos e histórico de transações. A BIA Preditiva analisa o comportamento financeiro do cliente para **antecipar tendências de gastos**, alertar sobre desvios de padrão e recomendar produtos financeiros de forma contextualizada — transformando um chatbot reativo em um copiloto financeiro proativo.
 
