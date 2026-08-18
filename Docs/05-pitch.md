@@ -12,7 +12,7 @@
 - O cliente descobre desvios no orçamento tarde demais — no fim do mês, ou no extrato;
 - O banco tem o histórico de transações do cliente, mas raramente o transforma em algo proativo e personalizado na conversa do dia a dia.
 
-## 3. A Solução — BIA Preditiva (1 min)
+## 3. A Solução — Finantivo (1 min)
 
 - Um agente financeiro que não só responde, mas **analisa o histórico de transações** do cliente em tempo real;
 - Identifica tendências (ex: "gastos com alimentação 32% acima da média");
@@ -46,15 +46,3 @@ Roteiro sugerido para a demo ao vivo:
 - Adicionar modelo preditivo mais robusto (ex: séries temporais) conforme o histórico de dados cresça;
 - Personalizar o limiar de alerta por cliente (o que é "normal" varia de pessoa para pessoa);
 - Adicionar canal de feedback do usuário para medir utilidade das recomendações.
-
-## 8. Fechamento
-
-> "A diferença entre um chatbot e um copiloto financeiro é simples: um espera a pergunta, o outro já viu o problema antes de você perguntar. É isso que a BIA Preditiva propõe."
-
----
-
-### Checklist antes da apresentação
-- [ ] Testar a demo com os 3 fluxos (consulta, alerta, recomendação) sem falhas
-- [ ] Ter um cenário de fallback caso a API do LLM falhe ao vivo (print/vídeo gravado)
-- [ ] Cronometrar o pitch pelo menos uma vez
-- [ ] Preparar resposta para a pergunta mais provável: "como vocês evitam que o modelo alucine números?"
