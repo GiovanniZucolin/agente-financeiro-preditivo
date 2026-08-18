@@ -2,7 +2,7 @@
 
 ## 1. Objetivo da Avaliação
 
-Garantir que a BIA Preditiva responda com precisão sobre os dados do cliente, gere alertas/projeções coerentes com os dados reais (mockados) e mantenha um comportamento seguro dentro do escopo definido.
+Garantir que o Finantivo responda com precisão sobre os dados do cliente, gere alertas/projeções coerentes com os dados reais (mockados) e mantenha um comportamento seguro dentro do escopo definido.
 
 ## 2. Métricas de Qualidade da Resposta (LLM)
 
