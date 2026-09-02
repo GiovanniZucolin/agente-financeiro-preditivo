@@ -1,0 +1,14 @@
+# Segredos - NUNCA commitar
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Ambientes conda/anaconda locais
+.conda/
